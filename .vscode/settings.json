@@ -51,5 +51,5 @@
         "temp/": true,
         "Temp/": true
     },
-    "dotnet.defaultSolution": "CMPUT-250-Git-Lab.sln"
+    "dotnet.defaultSolution": "CMPUT250_lab03.sln"
 }
